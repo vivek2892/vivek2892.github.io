@@ -68,13 +68,13 @@
 							<ul class="icons">
 								
 								<li><a href="mailto:kumarvivek2892@gmail.com?Subject=Hi%20Rahul" class="fa-envelope" target="_blank">Email</a> </li>
-								<li><a href="https://drive.google.com/file/d/1KiwRLBLL7WYySAEGigWM8dXrPogkzZxc/view?usp=sharing" class="fa-user" target="_blank">Resume</a>
+								<li><a href="" class="fa-user" target="_blank">Resume</a>
 </li>
 								<li><a href="https://www.linkedin.com/in/vivek-kumar-477852153" class="fa-linkedin" target="_blank">LinkedIn</a>
 </li>
 								<li><a href="https://github.com/vivek2892" class="fa-github" target="_blank">Github</a></li>
 								<li><a href="https://plus.google.com/u/0/113696290627076192761" class="fa-google-plus" target="_blank">Google</a></li>
-								<li><a href="https://twitter.com/vivek0828" class="fa-twitter" target="_blank">Twitter</a>
+								<li><a href="https://twitter.com/Vivek83440897" class="fa-twitter" target="_blank">Twitter</a>
 </li>
 								<li><a href="https://www.instagram.com/vivekkum4r/" class="fa-instagram" target="_blank">Instagram</a>
  </li>
