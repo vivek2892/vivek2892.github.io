@@ -68,7 +68,7 @@
 							<ul class="icons">
 								
 								<li><a href="mailto:kumarvivek2892@gmail.com?Subject=Hi%20Rahul" class="fa-envelope" target="_blank">Email</a> </li>
-								<li><a href="https://drive.google.com/file/d/1cE8oS7LDGDpMDY0d9aiSlqV0qE1ttyJt/view?usp=sharing" class="fa-user" target="_blank">Resume</a>
+								<li><a href="https://drive.google.com/file/d/18BeQNbnDoQR2LZUJl3YvwY7p-Hv6q-y3/view?usp=sharing" class="fa-user" target="_blank">Resume</a>
 </li>
 								<li><a href="https://www.linkedin.com/in/vivek-kumar-477852153" class="fa-linkedin" target="_blank">LinkedIn</a>
 </li>
