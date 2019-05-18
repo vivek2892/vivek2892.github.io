@@ -73,7 +73,7 @@
 								<li><a href="https://www.linkedin.com/in/vivek-kumar-477852153" class="fa-linkedin" target="_blank">LinkedIn</a>
 </li>
 								<li><a href="https://github.com/vivek2892" class="fa-github" target="_blank">Github</a></li>
-								<li><a href="https://plus.google.com/u/0/113696290627076192761" class="fa-google-plus" target="_blank">Google</a></li>
+								
 								<li><a href="https://twitter.com/Vivek83440897" class="fa-twitter" target="_blank">Twitter</a>
 </li>
 								<li><a href="https://www.instagram.com/vivekkum4r/" class="fa-instagram" target="_blank">Instagram</a>
